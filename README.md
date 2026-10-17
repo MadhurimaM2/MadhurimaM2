@@ -20,7 +20,7 @@ University of Maryland, Baltimore County (UMBC)
 Expected Graduation: May 2027
 
 **MSc in Statistics**  
-[Indian Institute of Technology, Kanpur, India]
+Indian Institute of Technology, Kanpur, India
 
 ## 💼 Professional Experience
 
@@ -151,7 +151,7 @@ Expected Graduation: May 2027
 
 ### ✈️ Big Data Travel Risk Prediction System
 
-**Big Data Analytics | 2026**
+**Big Data Analytics**
 
 <a href="https://github.com/MadhurimaM2/SkyRisk---Big-Data-Travel-Risk-Prediction-System-">
   <img src="https://img.shields.io/badge/View%20Project-9BBDEB?style=for-the-badge&logo=github&logoColor=17365D" alt="View Big Data travel risk project"/>

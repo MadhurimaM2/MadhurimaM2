@@ -3,55 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,26&height=150&section=header&text=Hi,%20I'm%20Madhurima!&fontSize=38&fontColor=17365D&animation=fadeIn&fontAlignY=42&desc=Applied%20Data%20Science%20%7C%20Statistics%20%7C%20Analytics&descAlignY=68&descSize=17" width="100%" alt="Pastel gradient header"/>
 </div>
 
-<table>
-<tr>
-<td width="29%" valign="top" align="center">
-
-<img src="profile.jpg" width="210" alt="Madhurima's profile photo"/>
-
-<h2>Madhurima Mukhopadhyay</h2>
-
-<p>Data Scientist | Statistician</p>
-
-📍 Maryland, USA
-
----
-
-🎓 <b>Education</b>
-
-MS Applied Data Science  
-University of Maryland, Baltimore County  
-Expected May 2027
-
-MSc in Statistics
-
----
-
-💼 <b>Experience</b>
-
-Analytics Analyst  
-Accenture | 2018–2021
-
----
-
-📫 <b>Connect With Me</b>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA8CBA?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-</td>
-
-<td width="71%" valign="top">
-
 ## 👋 About Me
 
 I'm an Applied Data Science graduate student at UMBC with a strong foundation in Statistics and professional analytics experience.
@@ -79,8 +30,6 @@ Expected Graduation: May 2027
 - Provided critical business solutions for maximizing profit by analyzing retail market data and customers' behavioral data.
 - Designed dashboards in front-end user-friendly tools such as QlikSense by coding raw back-end data with SQL.
 - Automated Excel dashboards for monthly retail reports and sales/profit analysis
-
-
 
 ## 🛠️ Tech Stack
 
@@ -114,9 +63,6 @@ Expected Graduation: May 2027
 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 
 **Tools:** GitHub, Jupyter, SQL Server, SSMS, Visual Studio, Streamlit, Cursor, GenAI, Excel, Powerpoint
-
-
-
 
 ## 🚀 Featured Projects
 
@@ -267,7 +213,6 @@ Expected Graduation: May 2027
 </tr>
 </table>
 
-
 ## 🌷 What I'm Interested In
 
 - Statistical modeling and predictive analytics
@@ -275,7 +220,6 @@ Expected Graduation: May 2027
 - Data visualization and communicating insights
 - Financial analytics and portfolio optimization
 - Big data processing and data engineering
-
 
 ## 🤝 Let's Connect!
 
@@ -288,10 +232,6 @@ I'm always interested in connecting with people working in data science, statist
 <a href="mailto:mmukhopadhyay73@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-E9A3C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,26&height=110&section=footer" width="100%" alt="Pastel gradient footer"/>

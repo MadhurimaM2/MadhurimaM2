@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,26&height=150&section=header&text=Hi,%20I'm%20Madhurima!&fontSize=38&fontColor=17365D&animation=fadeIn&fontAlignY=42&desc=Applied%20Data%20Science%20%7C%20Statistics%20%7C%20Analytics&descAlignY=68&descSize=17" width="100%" alt="Pastel gradient header"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:E6D6FF&height=200&section=header&text=Hi,%20I'm%20Madhurima!&fontSize=38&fontColor=6D4C5B&fontAlignY=35&desc=Applied%20Data%20Science%20%7C%20Statistics%20%7C%20Analytics&descAlignY=55&descSize=16"
+width="100%" alt="Pastel gradient header"/>
 </div>
 
 ## 👋 About Me
